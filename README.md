@@ -4,7 +4,7 @@ The convertDMStoDD is script in Javascript for Google Sheets. It converts coordi
 
 ## Usage
 
-Put coordinates in degrees, minutes, seconds format into first column of the spreadsheet. Choose menu **Convert -> Convert coordinates (DSM to DD)**. Converted latitude will be placed into second column. Converted longitude will be placed into third column.
+Put coordinates in degrees, minutes, seconds format into first column of the spreadsheet. Choose menu **Convert -> Convert (DSM to DD)**. Converted latitude will be placed into second column. Converted longitude will be placed into third column.
 
 ## Example 
 
