@@ -8,10 +8,10 @@ function onOpen(){
 var ss = SpreadsheetApp.getActiveSpreadsheet();
 
 var subMenus = [
-  {name : "Konwertuj wspolrzedne (SMS do SD)", functionName : "convertDMStoDD"}
+  {name : "Convert coordinates (DMS do DD)", functionName : "convertDMStoDD"}
 ]; 
   
-  ss.addMenu("JadeBusem", subMenus);
+  ss.addMenu("Converter", subMenus);
 }
 
 
